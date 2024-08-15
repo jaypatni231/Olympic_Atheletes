@@ -1,0 +1,5 @@
+- Using web scraping to collect data like this (Python beautifulsoup).
+- Splitting strings into separate columns
+- Using regular expressions (regexes) to extract specific details from columns
+- Converting columns to datetime & numeric types
+- Grabbing only a subset of our columns
